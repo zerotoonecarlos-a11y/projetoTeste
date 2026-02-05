@@ -21,16 +21,17 @@ namespace PrimeiroProjeto
             yC = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
 
-            double pX = (xA + xB + xC) / 2;
-            double pY = (yA + yB + yC) / 2;
+            double p = (xA + xB + xC) / 2;
+            double areaX = Math.Sqrt(p * (p - xA) * (p - xB) * (p - xC));
 
-            double areaX = Math.Sqrt(pX*(pX - xA)*(pX - xB)*(pX -xC));
-            double areaY = Math.Sqrt(pY*(pY - yA)*(pY - yB)*(pY -yC));
+
+            p = (yA + yB + yC) / 2;
+            double areaY = Math.Sqrt(p * (p - yA) * (p - yB) * (p - yC));
 
             Console.WriteLine("Area do triangulo X: " + areaX.ToString("F4", CultureInfo.InvariantCulture));
-            Console.WriteLine("Area do triangulo Y: " + areaY.ToString("F4", CultureInfo.InvariantCulture)); 
+            Console.WriteLine("Area do triangulo Y: " + areaY.ToString("F4", CultureInfo.InvariantCulture));
 
-            if(areaX > areaY)
+            if (areaX > areaY)
             {
                 Console.WriteLine("Maior área: X");
             }

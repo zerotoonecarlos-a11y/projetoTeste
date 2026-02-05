@@ -1,0 +1,14 @@
+/home/carlos/Documentos/projetoCurso/ProgramaVericarPessoa/bin/Debug/net10.0/ProgramaVericarPessoa
+/home/carlos/Documentos/projetoCurso/ProgramaVericarPessoa/bin/Debug/net10.0/ProgramaVericarPessoa.deps.json
+/home/carlos/Documentos/projetoCurso/ProgramaVericarPessoa/bin/Debug/net10.0/ProgramaVericarPessoa.runtimeconfig.json
+/home/carlos/Documentos/projetoCurso/ProgramaVericarPessoa/bin/Debug/net10.0/ProgramaVericarPessoa.dll
+/home/carlos/Documentos/projetoCurso/ProgramaVericarPessoa/bin/Debug/net10.0/ProgramaVericarPessoa.pdb
+/home/carlos/Documentos/projetoCurso/ProgramaVericarPessoa/obj/Debug/net10.0/ProgramaVericarPessoa.GeneratedMSBuildEditorConfig.editorconfig
+/home/carlos/Documentos/projetoCurso/ProgramaVericarPessoa/obj/Debug/net10.0/ProgramaVericarPessoa.AssemblyInfoInputs.cache
+/home/carlos/Documentos/projetoCurso/ProgramaVericarPessoa/obj/Debug/net10.0/ProgramaVericarPessoa.AssemblyInfo.cs
+/home/carlos/Documentos/projetoCurso/ProgramaVericarPessoa/obj/Debug/net10.0/ProgramaVericarPessoa.csproj.CoreCompileInputs.cache
+/home/carlos/Documentos/projetoCurso/ProgramaVericarPessoa/obj/Debug/net10.0/ProgramaVericarPessoa.dll
+/home/carlos/Documentos/projetoCurso/ProgramaVericarPessoa/obj/Debug/net10.0/refint/ProgramaVericarPessoa.dll
+/home/carlos/Documentos/projetoCurso/ProgramaVericarPessoa/obj/Debug/net10.0/ProgramaVericarPessoa.pdb
+/home/carlos/Documentos/projetoCurso/ProgramaVericarPessoa/obj/Debug/net10.0/ProgramaVericarPessoa.genruntimeconfig.cache
+/home/carlos/Documentos/projetoCurso/ProgramaVericarPessoa/obj/Debug/net10.0/ref/ProgramaVericarPessoa.dll

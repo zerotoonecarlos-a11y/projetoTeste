@@ -1,0 +1,14 @@
+/home/carlos/Documentos/projetoCurso/TrabalhandoComClasses/bin/Debug/net10.0/TrabalhandoComClasses
+/home/carlos/Documentos/projetoCurso/TrabalhandoComClasses/bin/Debug/net10.0/TrabalhandoComClasses.deps.json
+/home/carlos/Documentos/projetoCurso/TrabalhandoComClasses/bin/Debug/net10.0/TrabalhandoComClasses.runtimeconfig.json
+/home/carlos/Documentos/projetoCurso/TrabalhandoComClasses/bin/Debug/net10.0/TrabalhandoComClasses.dll
+/home/carlos/Documentos/projetoCurso/TrabalhandoComClasses/bin/Debug/net10.0/TrabalhandoComClasses.pdb
+/home/carlos/Documentos/projetoCurso/TrabalhandoComClasses/obj/Debug/net10.0/TrabalhandoComClasses.GeneratedMSBuildEditorConfig.editorconfig
+/home/carlos/Documentos/projetoCurso/TrabalhandoComClasses/obj/Debug/net10.0/TrabalhandoComClasses.AssemblyInfoInputs.cache
+/home/carlos/Documentos/projetoCurso/TrabalhandoComClasses/obj/Debug/net10.0/TrabalhandoComClasses.AssemblyInfo.cs
+/home/carlos/Documentos/projetoCurso/TrabalhandoComClasses/obj/Debug/net10.0/TrabalhandoComClasses.csproj.CoreCompileInputs.cache
+/home/carlos/Documentos/projetoCurso/TrabalhandoComClasses/obj/Debug/net10.0/TrabalhandoComClasses.dll
+/home/carlos/Documentos/projetoCurso/TrabalhandoComClasses/obj/Debug/net10.0/refint/TrabalhandoComClasses.dll
+/home/carlos/Documentos/projetoCurso/TrabalhandoComClasses/obj/Debug/net10.0/TrabalhandoComClasses.pdb
+/home/carlos/Documentos/projetoCurso/TrabalhandoComClasses/obj/Debug/net10.0/TrabalhandoComClasses.genruntimeconfig.cache
+/home/carlos/Documentos/projetoCurso/TrabalhandoComClasses/obj/Debug/net10.0/ref/TrabalhandoComClasses.dll
