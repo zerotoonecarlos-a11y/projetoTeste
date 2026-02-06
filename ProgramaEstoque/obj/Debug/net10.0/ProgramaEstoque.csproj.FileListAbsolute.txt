@@ -1,0 +1,15 @@
+/home/carlos/Documentos/projetoCurso/ProgramaEstoque/bin/Debug/net10.0/ProgramaEstoque
+/home/carlos/Documentos/projetoCurso/ProgramaEstoque/bin/Debug/net10.0/ProgramaEstoque.deps.json
+/home/carlos/Documentos/projetoCurso/ProgramaEstoque/bin/Debug/net10.0/ProgramaEstoque.runtimeconfig.json
+/home/carlos/Documentos/projetoCurso/ProgramaEstoque/bin/Debug/net10.0/ProgramaEstoque.dll
+/home/carlos/Documentos/projetoCurso/ProgramaEstoque/bin/Debug/net10.0/ProgramaEstoque.pdb
+/home/carlos/Documentos/projetoCurso/ProgramaEstoque/obj/Debug/net10.0/ProgramaEstoque.GeneratedMSBuildEditorConfig.editorconfig
+/home/carlos/Documentos/projetoCurso/ProgramaEstoque/obj/Debug/net10.0/ProgramaEstoque.AssemblyInfoInputs.cache
+/home/carlos/Documentos/projetoCurso/ProgramaEstoque/obj/Debug/net10.0/ProgramaEstoque.AssemblyInfo.cs
+/home/carlos/Documentos/projetoCurso/ProgramaEstoque/obj/Debug/net10.0/ProgramaEstoque.csproj.CoreCompileInputs.cache
+/home/carlos/Documentos/projetoCurso/ProgramaEstoque/obj/Debug/net10.0/ProgramaEstoque.sourcelink.json
+/home/carlos/Documentos/projetoCurso/ProgramaEstoque/obj/Debug/net10.0/ProgramaEstoque.dll
+/home/carlos/Documentos/projetoCurso/ProgramaEstoque/obj/Debug/net10.0/refint/ProgramaEstoque.dll
+/home/carlos/Documentos/projetoCurso/ProgramaEstoque/obj/Debug/net10.0/ProgramaEstoque.pdb
+/home/carlos/Documentos/projetoCurso/ProgramaEstoque/obj/Debug/net10.0/ProgramaEstoque.genruntimeconfig.cache
+/home/carlos/Documentos/projetoCurso/ProgramaEstoque/obj/Debug/net10.0/ref/ProgramaEstoque.dll
