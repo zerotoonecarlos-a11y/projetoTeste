@@ -1,0 +1,15 @@
+/home/carlos/Documentos/projetoCurso/ProgramaMediaSalario/bin/Debug/net10.0/ProgramaMediaSalario
+/home/carlos/Documentos/projetoCurso/ProgramaMediaSalario/bin/Debug/net10.0/ProgramaMediaSalario.deps.json
+/home/carlos/Documentos/projetoCurso/ProgramaMediaSalario/bin/Debug/net10.0/ProgramaMediaSalario.runtimeconfig.json
+/home/carlos/Documentos/projetoCurso/ProgramaMediaSalario/bin/Debug/net10.0/ProgramaMediaSalario.dll
+/home/carlos/Documentos/projetoCurso/ProgramaMediaSalario/bin/Debug/net10.0/ProgramaMediaSalario.pdb
+/home/carlos/Documentos/projetoCurso/ProgramaMediaSalario/obj/Debug/net10.0/ProgramaMediaSalario.GeneratedMSBuildEditorConfig.editorconfig
+/home/carlos/Documentos/projetoCurso/ProgramaMediaSalario/obj/Debug/net10.0/ProgramaMediaSalario.AssemblyInfoInputs.cache
+/home/carlos/Documentos/projetoCurso/ProgramaMediaSalario/obj/Debug/net10.0/ProgramaMediaSalario.AssemblyInfo.cs
+/home/carlos/Documentos/projetoCurso/ProgramaMediaSalario/obj/Debug/net10.0/ProgramaMediaSalario.csproj.CoreCompileInputs.cache
+/home/carlos/Documentos/projetoCurso/ProgramaMediaSalario/obj/Debug/net10.0/ProgramaMediaSalario.sourcelink.json
+/home/carlos/Documentos/projetoCurso/ProgramaMediaSalario/obj/Debug/net10.0/ProgramaMediaSalario.dll
+/home/carlos/Documentos/projetoCurso/ProgramaMediaSalario/obj/Debug/net10.0/refint/ProgramaMediaSalario.dll
+/home/carlos/Documentos/projetoCurso/ProgramaMediaSalario/obj/Debug/net10.0/ProgramaMediaSalario.pdb
+/home/carlos/Documentos/projetoCurso/ProgramaMediaSalario/obj/Debug/net10.0/ProgramaMediaSalario.genruntimeconfig.cache
+/home/carlos/Documentos/projetoCurso/ProgramaMediaSalario/obj/Debug/net10.0/ref/ProgramaMediaSalario.dll
