@@ -1,3 +1,4 @@
+using System.Globalization;
 using System.Threading;
 
 namespace ProgramaEstoque;
@@ -7,23 +8,13 @@ public class Produto
     public string Nome;
     public double Preco;
     public int Quantidade;
-
-
     public double ValorTotalEmEstoque()
     {
         return Preco * Quantidade;
     }
-
-    public void AdicionarQuantidadeProduto()
+    public void AdicionarQuantidadeProduto(int quantidade)
     {
-        Console.Write("Digite o número de produtos a ser adicionado ao estoque: ");
-        int quantidadeProduto = int.Parse(Console.ReadLine());
-        Quantidade += quantidadeProduto;
-        AnimarCarregamento();
-        Console.Clear();
-        Console.WriteLine($"Dados atualizados: {Nome}, ${Preco}, " +
-                         $" {Quantidade} unidades, Total: " + ValorTotalEmEstoque().ToString("F2"));
-
+        Quantidade += quantidade;
     }
 
     private static void AnimarCarregamento()
@@ -39,14 +30,17 @@ public class Produto
         Console.WriteLine();
     }
 
-    public void RemoverQuantidadeProduto()
+    public void RemoverQuantidadeProduto(int quantidade)
     {
-        Console.Write("Digite o número de produtos a ser removido do estoque: ");
-        int quantidade = int.Parse(Console.ReadLine());
         Quantidade -= quantidade;
-        AnimarCarregamento();
-        Console.Clear();
-        Console.WriteLine($"Dados atualizados: {Nome}, ${Preco}, " +
-                          $"{Quantidade} unidades, Total: " + ValorTotalEmEstoque().ToString("F2"));
+    }
+
+    public override string ToString()
+    {
+        return Nome + ", "
+              + "$" 
+              + Preco + ", "
+              + Quantidade + " unidades, "
+              + ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture);
     }
 }
