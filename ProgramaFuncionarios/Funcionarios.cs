@@ -21,7 +21,8 @@ public class Funcionarios
 
     public override string ToString()
     {
-        return Nome + ", "
+        return Nome 
+              + ", "
               + "$ " 
               + SalarioLiquido().ToString("F2", CultureInfo.InstalledUICulture);
     }

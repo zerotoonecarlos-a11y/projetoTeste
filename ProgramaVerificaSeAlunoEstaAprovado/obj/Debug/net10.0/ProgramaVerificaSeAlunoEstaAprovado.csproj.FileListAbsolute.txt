@@ -1,0 +1,15 @@
+/home/carlos/Documentos/projetoCurso/ProgramaVerificaSeAlunoEstaAprovado/bin/Debug/net10.0/ProgramaVerificaSeAlunoEstaAprovado
+/home/carlos/Documentos/projetoCurso/ProgramaVerificaSeAlunoEstaAprovado/bin/Debug/net10.0/ProgramaVerificaSeAlunoEstaAprovado.deps.json
+/home/carlos/Documentos/projetoCurso/ProgramaVerificaSeAlunoEstaAprovado/bin/Debug/net10.0/ProgramaVerificaSeAlunoEstaAprovado.runtimeconfig.json
+/home/carlos/Documentos/projetoCurso/ProgramaVerificaSeAlunoEstaAprovado/bin/Debug/net10.0/ProgramaVerificaSeAlunoEstaAprovado.dll
+/home/carlos/Documentos/projetoCurso/ProgramaVerificaSeAlunoEstaAprovado/bin/Debug/net10.0/ProgramaVerificaSeAlunoEstaAprovado.pdb
+/home/carlos/Documentos/projetoCurso/ProgramaVerificaSeAlunoEstaAprovado/obj/Debug/net10.0/ProgramaVerificaSeAlunoEstaAprovado.GeneratedMSBuildEditorConfig.editorconfig
+/home/carlos/Documentos/projetoCurso/ProgramaVerificaSeAlunoEstaAprovado/obj/Debug/net10.0/ProgramaVerificaSeAlunoEstaAprovado.AssemblyInfoInputs.cache
+/home/carlos/Documentos/projetoCurso/ProgramaVerificaSeAlunoEstaAprovado/obj/Debug/net10.0/ProgramaVerificaSeAlunoEstaAprovado.AssemblyInfo.cs
+/home/carlos/Documentos/projetoCurso/ProgramaVerificaSeAlunoEstaAprovado/obj/Debug/net10.0/ProgramaVerificaSeAlunoEstaAprovado.csproj.CoreCompileInputs.cache
+/home/carlos/Documentos/projetoCurso/ProgramaVerificaSeAlunoEstaAprovado/obj/Debug/net10.0/ProgramaVerificaSeAlunoEstaAprovado.sourcelink.json
+/home/carlos/Documentos/projetoCurso/ProgramaVerificaSeAlunoEstaAprovado/obj/Debug/net10.0/ProgramaVerificaSeAlunoEstaAprovado.dll
+/home/carlos/Documentos/projetoCurso/ProgramaVerificaSeAlunoEstaAprovado/obj/Debug/net10.0/refint/ProgramaVerificaSeAlunoEstaAprovado.dll
+/home/carlos/Documentos/projetoCurso/ProgramaVerificaSeAlunoEstaAprovado/obj/Debug/net10.0/ProgramaVerificaSeAlunoEstaAprovado.pdb
+/home/carlos/Documentos/projetoCurso/ProgramaVerificaSeAlunoEstaAprovado/obj/Debug/net10.0/ProgramaVerificaSeAlunoEstaAprovado.genruntimeconfig.cache
+/home/carlos/Documentos/projetoCurso/ProgramaVerificaSeAlunoEstaAprovado/obj/Debug/net10.0/ref/ProgramaVerificaSeAlunoEstaAprovado.dll
