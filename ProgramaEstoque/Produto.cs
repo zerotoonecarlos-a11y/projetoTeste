@@ -38,9 +38,9 @@ public class Produto
     public override string ToString()
     {
         return Nome + ", "
-              + "$" 
+              + "$ " 
               + Preco + ", "
               + Quantidade + " unidades, "
-              + ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture);
+              + "Total: $ " + ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture);
     }
 }

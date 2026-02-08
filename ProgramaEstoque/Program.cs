@@ -17,18 +17,19 @@
             Console.WriteLine($"Dados do prdouto: {prod}");
 
             Console.WriteLine();
-            Console.Write("Digite o numero de produtos a ser adicionado: ");
+            Console.Write("Digite o numero de produtos a ser adicionado no estoque: ");
             int qte = int.Parse(Console.ReadLine());
             prod.AdicionarQuantidadeProduto(qte);
 
             Console.WriteLine($"Dados do prdouto: {prod}");
 
             Console.WriteLine();
-            Console.Write("Digite o numero de produtos a ser removido: ");
+            Console.Write("Digite o numero de produtos a ser removido do estoque: ");
             qte = int.Parse(Console.ReadLine());
             prod.RemoverQuantidadeProduto(qte);
 
-            Console.WriteLine($"Dados do prdouto: {prod}");
+            Console.WriteLine();
+            Console.WriteLine($"Dados atualizados do prdouto: {prod}");
         }
     }
 }

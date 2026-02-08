@@ -1,0 +1,15 @@
+/home/carlos/Documentos/projetoCurso/projetoRetangulo/bin/Debug/net10.0/projetoRetangulo
+/home/carlos/Documentos/projetoCurso/projetoRetangulo/bin/Debug/net10.0/projetoRetangulo.deps.json
+/home/carlos/Documentos/projetoCurso/projetoRetangulo/bin/Debug/net10.0/projetoRetangulo.runtimeconfig.json
+/home/carlos/Documentos/projetoCurso/projetoRetangulo/bin/Debug/net10.0/projetoRetangulo.dll
+/home/carlos/Documentos/projetoCurso/projetoRetangulo/bin/Debug/net10.0/projetoRetangulo.pdb
+/home/carlos/Documentos/projetoCurso/projetoRetangulo/obj/Debug/net10.0/projetoRetangulo.GeneratedMSBuildEditorConfig.editorconfig
+/home/carlos/Documentos/projetoCurso/projetoRetangulo/obj/Debug/net10.0/projetoRetangulo.AssemblyInfoInputs.cache
+/home/carlos/Documentos/projetoCurso/projetoRetangulo/obj/Debug/net10.0/projetoRetangulo.AssemblyInfo.cs
+/home/carlos/Documentos/projetoCurso/projetoRetangulo/obj/Debug/net10.0/projetoRetangulo.csproj.CoreCompileInputs.cache
+/home/carlos/Documentos/projetoCurso/projetoRetangulo/obj/Debug/net10.0/projetoRetangulo.sourcelink.json
+/home/carlos/Documentos/projetoCurso/projetoRetangulo/obj/Debug/net10.0/projetoRetangulo.dll
+/home/carlos/Documentos/projetoCurso/projetoRetangulo/obj/Debug/net10.0/refint/projetoRetangulo.dll
+/home/carlos/Documentos/projetoCurso/projetoRetangulo/obj/Debug/net10.0/projetoRetangulo.pdb
+/home/carlos/Documentos/projetoCurso/projetoRetangulo/obj/Debug/net10.0/projetoRetangulo.genruntimeconfig.cache
+/home/carlos/Documentos/projetoCurso/projetoRetangulo/obj/Debug/net10.0/ref/projetoRetangulo.dll
