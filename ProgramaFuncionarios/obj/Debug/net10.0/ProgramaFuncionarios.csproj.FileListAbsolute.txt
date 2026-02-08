@@ -1,0 +1,15 @@
+/home/carlos/Documentos/projetoCurso/ProgramaFuncionarios/bin/Debug/net10.0/ProgramaFuncionarios
+/home/carlos/Documentos/projetoCurso/ProgramaFuncionarios/bin/Debug/net10.0/ProgramaFuncionarios.deps.json
+/home/carlos/Documentos/projetoCurso/ProgramaFuncionarios/bin/Debug/net10.0/ProgramaFuncionarios.runtimeconfig.json
+/home/carlos/Documentos/projetoCurso/ProgramaFuncionarios/bin/Debug/net10.0/ProgramaFuncionarios.dll
+/home/carlos/Documentos/projetoCurso/ProgramaFuncionarios/bin/Debug/net10.0/ProgramaFuncionarios.pdb
+/home/carlos/Documentos/projetoCurso/ProgramaFuncionarios/obj/Debug/net10.0/ProgramaFuncionarios.GeneratedMSBuildEditorConfig.editorconfig
+/home/carlos/Documentos/projetoCurso/ProgramaFuncionarios/obj/Debug/net10.0/ProgramaFuncionarios.AssemblyInfoInputs.cache
+/home/carlos/Documentos/projetoCurso/ProgramaFuncionarios/obj/Debug/net10.0/ProgramaFuncionarios.AssemblyInfo.cs
+/home/carlos/Documentos/projetoCurso/ProgramaFuncionarios/obj/Debug/net10.0/ProgramaFuncionarios.csproj.CoreCompileInputs.cache
+/home/carlos/Documentos/projetoCurso/ProgramaFuncionarios/obj/Debug/net10.0/ProgramaFuncionarios.sourcelink.json
+/home/carlos/Documentos/projetoCurso/ProgramaFuncionarios/obj/Debug/net10.0/ProgramaFuncionarios.dll
+/home/carlos/Documentos/projetoCurso/ProgramaFuncionarios/obj/Debug/net10.0/refint/ProgramaFuncionarios.dll
+/home/carlos/Documentos/projetoCurso/ProgramaFuncionarios/obj/Debug/net10.0/ProgramaFuncionarios.pdb
+/home/carlos/Documentos/projetoCurso/ProgramaFuncionarios/obj/Debug/net10.0/ProgramaFuncionarios.genruntimeconfig.cache
+/home/carlos/Documentos/projetoCurso/ProgramaFuncionarios/obj/Debug/net10.0/ref/ProgramaFuncionarios.dll
