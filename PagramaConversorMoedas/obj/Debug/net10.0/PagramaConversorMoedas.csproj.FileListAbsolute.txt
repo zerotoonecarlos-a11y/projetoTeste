@@ -1,0 +1,15 @@
+/home/carlos/Documentos/projetoCurso/PagramaConversorMoedas/bin/Debug/net10.0/PagramaConversorMoedas
+/home/carlos/Documentos/projetoCurso/PagramaConversorMoedas/bin/Debug/net10.0/PagramaConversorMoedas.deps.json
+/home/carlos/Documentos/projetoCurso/PagramaConversorMoedas/bin/Debug/net10.0/PagramaConversorMoedas.runtimeconfig.json
+/home/carlos/Documentos/projetoCurso/PagramaConversorMoedas/bin/Debug/net10.0/PagramaConversorMoedas.dll
+/home/carlos/Documentos/projetoCurso/PagramaConversorMoedas/bin/Debug/net10.0/PagramaConversorMoedas.pdb
+/home/carlos/Documentos/projetoCurso/PagramaConversorMoedas/obj/Debug/net10.0/PagramaConversorMoedas.GeneratedMSBuildEditorConfig.editorconfig
+/home/carlos/Documentos/projetoCurso/PagramaConversorMoedas/obj/Debug/net10.0/PagramaConversorMoedas.AssemblyInfoInputs.cache
+/home/carlos/Documentos/projetoCurso/PagramaConversorMoedas/obj/Debug/net10.0/PagramaConversorMoedas.AssemblyInfo.cs
+/home/carlos/Documentos/projetoCurso/PagramaConversorMoedas/obj/Debug/net10.0/PagramaConversorMoedas.csproj.CoreCompileInputs.cache
+/home/carlos/Documentos/projetoCurso/PagramaConversorMoedas/obj/Debug/net10.0/PagramaConversorMoedas.sourcelink.json
+/home/carlos/Documentos/projetoCurso/PagramaConversorMoedas/obj/Debug/net10.0/PagramaConversorMoedas.dll
+/home/carlos/Documentos/projetoCurso/PagramaConversorMoedas/obj/Debug/net10.0/refint/PagramaConversorMoedas.dll
+/home/carlos/Documentos/projetoCurso/PagramaConversorMoedas/obj/Debug/net10.0/PagramaConversorMoedas.pdb
+/home/carlos/Documentos/projetoCurso/PagramaConversorMoedas/obj/Debug/net10.0/PagramaConversorMoedas.genruntimeconfig.cache
+/home/carlos/Documentos/projetoCurso/PagramaConversorMoedas/obj/Debug/net10.0/ref/PagramaConversorMoedas.dll
