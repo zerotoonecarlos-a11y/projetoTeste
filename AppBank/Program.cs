@@ -7,27 +7,53 @@ namespace AppBank
     {
         public static void Main(String[] args)
         {
-           
-            Conta conta = new();
-            
 
             Console.Write("Entre o numero da conta: ");
-            conta.NumeroConta = int.Parse(Console.ReadLine());
+            int numeroConta = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Entre com o titular da conta: ");
-            conta.NomeTitular = Console.ReadLine();
+            Console.Write("Entre com o titular da conta: ");
+            string nomeTitular = Console.ReadLine();
+
+            Conta conta = new(numeroConta, nomeTitular);
 
             Console.WriteLine();
 
-            Console.WriteLine("Haverá deposito inicial?(s/n)");
-            char opcao = Console.ReadLine().Trim().ToLower();
+            Console.Write("Haverá deposito inicial?(s/n)");
+            char opcao = char.Parse(Console.ReadLine().Trim().ToLower());
 
-            if(opcao == "s")
-            {   Console.WriteLine("Entre o valor do deposito inicial: ");
-                double deposito = double.Parse(Console.ReadLine());
+            double deposito;
+            if (opcao == 's')
+            {
+                Console.Write("Entre o valor do deposito inicial: ");
+                deposito = double.Parse(Console.ReadLine());
+
                 conta.Depositar(deposito);
             }
-            
+
+            Console.WriteLine();
+
+            Console.WriteLine("Dados da conta:");
+            Console.WriteLine(conta);
+
+            Console.WriteLine();
+
+            Console.Write("Entre um valor para deposito: ");
+            deposito = double.Parse(Console.ReadLine());
+            conta.Depositar(deposito);
+
+            Console.WriteLine("Dados da conta atualizados: ");
+            Console.WriteLine(conta);
+
+            Console.WriteLine();
+
+            Console.Write("Entre um valor para saque: ");
+            double saque = double.Parse(Console.ReadLine());
+            conta.Sacar(saque);
+
+            Console.WriteLine("Dados da conta atualizados: ");
+            Console.WriteLine(conta);
+
         }
+
     }
 }
