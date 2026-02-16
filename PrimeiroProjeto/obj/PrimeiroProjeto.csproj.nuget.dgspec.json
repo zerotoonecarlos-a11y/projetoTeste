@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/carlos/Documentos/curso/projetoTeste/PrimeiroProjeto/PrimeiroProjeto.csproj": {}
+    "/home/carlos/Documentos/projetoCurso/PrimeiroProjeto/PrimeiroProjeto.csproj": {}
   },
   "projects": {
-    "/home/carlos/Documentos/curso/projetoTeste/PrimeiroProjeto/PrimeiroProjeto.csproj": {
+    "/home/carlos/Documentos/projetoCurso/PrimeiroProjeto/PrimeiroProjeto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/carlos/Documentos/curso/projetoTeste/PrimeiroProjeto/PrimeiroProjeto.csproj",
+        "projectUniqueName": "/home/carlos/Documentos/projetoCurso/PrimeiroProjeto/PrimeiroProjeto.csproj",
         "projectName": "PrimeiroProjeto",
-        "projectPath": "/home/carlos/Documentos/curso/projetoTeste/PrimeiroProjeto/PrimeiroProjeto.csproj",
+        "projectPath": "/home/carlos/Documentos/projetoCurso/PrimeiroProjeto/PrimeiroProjeto.csproj",
         "packagesPath": "/home/carlos/.nuget/packages/",
-        "outputPath": "/home/carlos/Documentos/curso/projetoTeste/PrimeiroProjeto/obj/",
+        "outputPath": "/home/carlos/Documentos/projetoCurso/PrimeiroProjeto/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/carlos/.nuget/NuGet/NuGet.Config"
@@ -20,7 +20,7 @@
           "net10.0"
         ],
         "sources": {
-          "/usr/lib/dotnet/library-packs": {},
+          "/usr/lib64/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.103/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/10.0.102/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

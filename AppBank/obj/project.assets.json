@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/carlos/Documentos/curso/projetoTeste/AppBank/AppBank.csproj",
+      "projectUniqueName": "/home/carlos/Documentos/projetoCurso/AppBank/AppBank.csproj",
       "projectName": "AppBank",
-      "projectPath": "/home/carlos/Documentos/curso/projetoTeste/AppBank/AppBank.csproj",
+      "projectPath": "/home/carlos/Documentos/projetoCurso/AppBank/AppBank.csproj",
       "packagesPath": "/home/carlos/.nuget/packages/",
-      "outputPath": "/home/carlos/Documentos/curso/projetoTeste/AppBank/obj/",
+      "outputPath": "/home/carlos/Documentos/projetoCurso/AppBank/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/carlos/.nuget/NuGet/NuGet.Config"
@@ -26,7 +26,7 @@
         "net10.0"
       ],
       "sources": {
-        "/usr/lib/dotnet/library-packs": {},
+        "/usr/lib64/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -66,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.103/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/10.0.102/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",

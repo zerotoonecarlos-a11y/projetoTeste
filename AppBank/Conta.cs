@@ -1,10 +1,10 @@
-﻿using System.Runtime.CompilerServices;
+﻿using System.Globalization;
+using System.Runtime.CompilerServices;
 
 namespace AppBank;
 
 public class ContaBancaria
 {
-    private decimal TaxaSaque = 5m;
     public int Conta { get; private set; }
     public string Titular { get; set; }
     public decimal Saldo { get; private set; }
@@ -27,22 +27,22 @@ public class ContaBancaria
 
     public bool Sacar(decimal valorSaque)
     {
-        decimal totalDebito = valorSaque + TaxaSaque;
+        decimal taxaSaque = 5m;
 
-        if (Saldo >= totalDebito)
+        if (Saldo < valorSaque)
         {
-            Saldo -= totalDebito;
-            return true;
+            Console.Clear();
+            Console.WriteLine("Saldo insuficiente!");
+            return false;
         }
 
-        VerificaCoesSistema.VerificacaoDeEntrada();
-        Console.WriteLine("Saldo insuficiente!");
-        Console.WriteLine();
-        return false;
+        Saldo -= valorSaque + taxaSaque;
+        return true;
     }
 
     public override string ToString()
     {
-        return $"Numero da conta: {Conta}, Titular da conta: {Titular}, Saldo: {Saldo}";
+        return $"Numero da conta: {Conta}, Titular da conta: {Titular}, " 
+             + $"Saldo: {Saldo.ToString("F2", CultureInfo.InvariantCulture)}";
     }
 }

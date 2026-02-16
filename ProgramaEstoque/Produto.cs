@@ -5,9 +5,23 @@ namespace ProgramaEstoque;
 
 public class Produto
 {
-    public string Nome;
-    public double Preco;
-    public int Quantidade;
+    string Nome;
+    double Preco;
+    int Quantidade;
+
+    public Produto(string nome, double preco, int quantidade)
+    {
+        Nome = nome;
+        Preco = preco;
+        Quantidade = quantidade;
+    }
+
+    public Produto(string nome, double preco)
+    {
+        Nome = nome;
+        Preco = preco;
+        Quantidade = 0;
+    }
     public double ValorTotalEmEstoque()
     {
         return Preco * Quantidade;
@@ -38,7 +52,7 @@ public class Produto
     public override string ToString()
     {
         return Nome + ", "
-              + "$ " 
+              + "$ "
               + Preco + ", "
               + Quantidade + " unidades, "
               + "Total: $ " + ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture);

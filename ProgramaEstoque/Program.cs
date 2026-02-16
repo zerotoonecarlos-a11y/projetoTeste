@@ -4,15 +4,19 @@
     {
         public static void Main(String[] args)
         {
-            Produto prod = new();
+            
 
             Console.WriteLine("Entre com os dados do produto: ");
             Console.Write("Nome: ");
-            prod.Nome = Console.ReadLine();
+            string nome = Console.ReadLine();
             Console.Write("Preço: ");
-            prod.Preco = double.Parse(Console.ReadLine());
+            double preco = double.Parse(Console.ReadLine());
             Console.Write("Quantidade em estoque: ");
-            prod.Quantidade = int.Parse(Console.ReadLine());
+            int quantidade = int.Parse(Console.ReadLine());
+
+
+            Produto prod = new(nome, preco, quantidade);
+
 
             Console.WriteLine($"Dados do prdouto: {prod}");
 

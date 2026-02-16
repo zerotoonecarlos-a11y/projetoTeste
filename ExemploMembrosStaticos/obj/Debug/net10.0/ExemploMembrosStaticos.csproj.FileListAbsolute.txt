@@ -1,0 +1,15 @@
+/home/carlos/Documentos/projetoCurso/ExemploMembrosStaticos/obj/Debug/net10.0/ExemploMembrosStaticos.GeneratedMSBuildEditorConfig.editorconfig
+/home/carlos/Documentos/projetoCurso/ExemploMembrosStaticos/obj/Debug/net10.0/ExemploMembrosStaticos.AssemblyInfoInputs.cache
+/home/carlos/Documentos/projetoCurso/ExemploMembrosStaticos/obj/Debug/net10.0/ExemploMembrosStaticos.AssemblyInfo.cs
+/home/carlos/Documentos/projetoCurso/ExemploMembrosStaticos/obj/Debug/net10.0/ExemploMembrosStaticos.csproj.CoreCompileInputs.cache
+/home/carlos/Documentos/projetoCurso/ExemploMembrosStaticos/obj/Debug/net10.0/ExemploMembrosStaticos.sourcelink.json
+/home/carlos/Documentos/projetoCurso/ExemploMembrosStaticos/bin/Debug/net10.0/ExemploMembrosStaticos
+/home/carlos/Documentos/projetoCurso/ExemploMembrosStaticos/bin/Debug/net10.0/ExemploMembrosStaticos.deps.json
+/home/carlos/Documentos/projetoCurso/ExemploMembrosStaticos/bin/Debug/net10.0/ExemploMembrosStaticos.runtimeconfig.json
+/home/carlos/Documentos/projetoCurso/ExemploMembrosStaticos/bin/Debug/net10.0/ExemploMembrosStaticos.dll
+/home/carlos/Documentos/projetoCurso/ExemploMembrosStaticos/bin/Debug/net10.0/ExemploMembrosStaticos.pdb
+/home/carlos/Documentos/projetoCurso/ExemploMembrosStaticos/obj/Debug/net10.0/ExemploMembrosStaticos.dll
+/home/carlos/Documentos/projetoCurso/ExemploMembrosStaticos/obj/Debug/net10.0/refint/ExemploMembrosStaticos.dll
+/home/carlos/Documentos/projetoCurso/ExemploMembrosStaticos/obj/Debug/net10.0/ExemploMembrosStaticos.pdb
+/home/carlos/Documentos/projetoCurso/ExemploMembrosStaticos/obj/Debug/net10.0/ExemploMembrosStaticos.genruntimeconfig.cache
+/home/carlos/Documentos/projetoCurso/ExemploMembrosStaticos/obj/Debug/net10.0/ref/ExemploMembrosStaticos.dll
