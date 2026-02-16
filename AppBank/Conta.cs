@@ -2,38 +2,47 @@
 
 namespace AppBank;
 
-public class Conta
+public class ContaBancaria
 {
-    public int NumeroConta { get; private set; }
-    public string NomeTitular { get; set; }
-    public double Saldo { get; set; }
+    private decimal TaxaSaque = 5m;
+    public int Conta { get; private set; }
+    public string Titular { get; set; }
+    public decimal Saldo { get; private set; }
 
-    public Conta(int numeroConta, string nomeTitular)
+    public ContaBancaria(int conta, string titular)
     {
-        NumeroConta = numeroConta;
-        NomeTitular = nomeTitular;
+        Conta = conta;
+        Titular = titular;
     }
 
-    public void Depositar(double valorDeposito)
+    public ContaBancaria(int conta, string titular, decimal saldo) : this(conta, titular)
+    {
+        Saldo = saldo;
+    }
+
+    public void Depositar(decimal valorDeposito)
     {
         Saldo += valorDeposito;
     }
 
-    public void Sacar(double valorSaque)
+    public bool Sacar(decimal valorSaque)
     {
-        if (Saldo >= valorSaque)
+        decimal totalDebito = valorSaque + TaxaSaque;
+
+        if (Saldo >= totalDebito)
         {
-            Saldo = Saldo - valorSaque;
-            Saldo = Saldo - 5;
+            Saldo -= totalDebito;
+            return true;
         }
-        else
-        {
-            Console.WriteLine("Saldo insuficiente!");
-        }
+
+        VerificaCoesSistema.VerificacaoDeEntrada();
+        Console.WriteLine("Saldo insuficiente!");
+        Console.WriteLine();
+        return false;
     }
 
     public override string ToString()
     {
-        return $"Numero conta: {NumeroConta}, Titular conta: {NomeTitular}, Saldo: {Saldo}";
+        return $"Numero da conta: {Conta}, Titular da conta: {Titular}, Saldo: {Saldo}";
     }
 }
