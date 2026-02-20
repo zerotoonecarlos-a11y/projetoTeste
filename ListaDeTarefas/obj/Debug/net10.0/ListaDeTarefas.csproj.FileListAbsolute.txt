@@ -1,0 +1,15 @@
+/home/carlos/Documentos/projetoCurso/ListaDeTarefas/obj/Debug/net10.0/ListaDeTarefas.GeneratedMSBuildEditorConfig.editorconfig
+/home/carlos/Documentos/projetoCurso/ListaDeTarefas/obj/Debug/net10.0/ListaDeTarefas.AssemblyInfoInputs.cache
+/home/carlos/Documentos/projetoCurso/ListaDeTarefas/obj/Debug/net10.0/ListaDeTarefas.AssemblyInfo.cs
+/home/carlos/Documentos/projetoCurso/ListaDeTarefas/obj/Debug/net10.0/ListaDeTarefas.csproj.CoreCompileInputs.cache
+/home/carlos/Documentos/projetoCurso/ListaDeTarefas/obj/Debug/net10.0/ListaDeTarefas.sourcelink.json
+/home/carlos/Documentos/projetoCurso/ListaDeTarefas/bin/Debug/net10.0/ListaDeTarefas
+/home/carlos/Documentos/projetoCurso/ListaDeTarefas/bin/Debug/net10.0/ListaDeTarefas.deps.json
+/home/carlos/Documentos/projetoCurso/ListaDeTarefas/bin/Debug/net10.0/ListaDeTarefas.runtimeconfig.json
+/home/carlos/Documentos/projetoCurso/ListaDeTarefas/bin/Debug/net10.0/ListaDeTarefas.dll
+/home/carlos/Documentos/projetoCurso/ListaDeTarefas/bin/Debug/net10.0/ListaDeTarefas.pdb
+/home/carlos/Documentos/projetoCurso/ListaDeTarefas/obj/Debug/net10.0/ListaDeTarefas.dll
+/home/carlos/Documentos/projetoCurso/ListaDeTarefas/obj/Debug/net10.0/refint/ListaDeTarefas.dll
+/home/carlos/Documentos/projetoCurso/ListaDeTarefas/obj/Debug/net10.0/ListaDeTarefas.pdb
+/home/carlos/Documentos/projetoCurso/ListaDeTarefas/obj/Debug/net10.0/ListaDeTarefas.genruntimeconfig.cache
+/home/carlos/Documentos/projetoCurso/ListaDeTarefas/obj/Debug/net10.0/ref/ListaDeTarefas.dll

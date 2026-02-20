@@ -15,9 +15,9 @@ public class ContaBancaria
         Titular = titular;
     }
 
-    public ContaBancaria(int conta, string titular, decimal saldo) : this(conta, titular)
+    public ContaBancaria(int conta, string titular, decimal depositoInicial) : this(conta, titular)
     {
-        Saldo = saldo;
+        Depositar(depositoInicial);
     }
 
     public void Depositar(decimal valorDeposito)
@@ -25,19 +25,16 @@ public class ContaBancaria
         Saldo += valorDeposito;
     }
 
-    public bool Sacar(decimal valorSaque)
+    public void Sacar(decimal valorSaque)
     {
         decimal taxaSaque = 5m;
 
-        if (Saldo < valorSaque)
+        if (Saldo < valorSaque + taxaSaque)
         {
-            Console.Clear();
-            Console.WriteLine("Saldo insuficiente!");
-            return false;
+            throw new InvalidOperationException("Saldo insuficiente!");
         }
 
         Saldo -= valorSaque + taxaSaque;
-        return true;
     }
 
     public override string ToString()

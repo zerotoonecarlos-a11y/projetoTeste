@@ -1,19 +1,11 @@
-﻿
-using System.ComponentModel;
-using System.Diagnostics;
-using System.Diagnostics.Contracts;
-using System.Reflection.Metadata;
-using Microsoft.VisualBasic;
-
-namespace AppBank
+﻿namespace AppBank
 {
     class Program
     {
-        public static void Main(String[] args)
+        public static void Main(string[] args)
         {
-
-            Start.MenuInicial();
-
+            BankApp app = new();
+            app.Executar();
         }
     }
 }
